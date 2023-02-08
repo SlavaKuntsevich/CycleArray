@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\Цикл\bin\Debug\net6.0\Цикл.exe
+C:\Users\Asus\source\repos\Цикл\bin\Debug\net6.0\Цикл.deps.json
+C:\Users\Asus\source\repos\Цикл\bin\Debug\net6.0\Цикл.runtimeconfig.json
+C:\Users\Asus\source\repos\Цикл\bin\Debug\net6.0\Цикл.dll
+C:\Users\Asus\source\repos\Цикл\bin\Debug\net6.0\Цикл.pdb
+C:\Users\Asus\source\repos\Цикл\obj\Debug\net6.0\Цикл.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Цикл\obj\Debug\net6.0\Цикл.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Цикл\obj\Debug\net6.0\Цикл.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Цикл\obj\Debug\net6.0\Цикл.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Цикл\obj\Debug\net6.0\Цикл.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Цикл\obj\Debug\net6.0\Цикл.dll
+C:\Users\Asus\source\repos\Цикл\obj\Debug\net6.0\refint\Цикл.dll
+C:\Users\Asus\source\repos\Цикл\obj\Debug\net6.0\Цикл.pdb
+C:\Users\Asus\source\repos\Цикл\obj\Debug\net6.0\Цикл.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Цикл\obj\Debug\net6.0\ref\Цикл.dll
